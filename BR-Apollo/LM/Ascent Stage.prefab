@@ -6144,7 +6144,7 @@ MonoBehaviour:
   dryMassPercent:
     variableName: 
     referenceToVariables: {fileID: 6025496177165280511}
-    localValue: 0.19847
+    localValue: 0.1
   resourcePercent:
     variableName: fuel_percent
     referenceToVariables: {fileID: 6025496177165280511}
@@ -6186,7 +6186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   polygonModule: {fileID: 1781619544963625875}
-  density: 3.9396
+  density: 2.5
   mass:
     variableName: mass_wet
     referenceToVariables: {fileID: 6025496177165280511}
